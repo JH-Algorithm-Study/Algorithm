@@ -28,4 +28,5 @@ commit -m "Feat: Solve [Boj-1935, 1158, 3190] JiHwan"
 | **주차** | **폴더명**          | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
 | 1주차    | Stack_Queue   | [후위 표기식2 - Silver 3](https://www.acmicpc.net/problem/1935) | [요세푸스 문제 - Silver 4](https://www.acmicpc.net/problem/1158) | [뱀 - Gold 4](https://www.acmicpc.net/problem/3190) | `진행 중`   |
-| 2주차    |  |  |  |  |  |
+| 2주차    | Tree_P   | [최소 힙 - Silver 2](https://www.acmicpc.net/problem/1927) | [트리 순회 - Silver 1](https://www.acmicpc.net/problem/1991) | [중앙값 구하기 - Gold 2](https://www.acmicpc.net/problem/2696) | `진행 중`   |
+| 3주차    |  |  |  |  |  |
