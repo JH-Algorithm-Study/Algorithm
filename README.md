@@ -13,12 +13,15 @@ SSAFY 6반 알고리즘 스터디 **`주간 과제`** 올려두는 곳!
 
 ```
 commit -m 'Feat: Solve [Boj-1935] JiHwan"
+commit -m "Fix: Fixed [Boj-1935] JiHwan"
+
 ```
 
 - 여러 문제를 한꺼번에 commit할 경우
 
 ```
 commit -m "Feat: Solve [Boj-1935, 1158, 3190] JiHwan"
+commit -m "Fix: Fixed [Boj-1935, 1158, 3190] JiHwan"
 ```
 
 - 코드 수정의 경우는 어떤 commit 메세지를 쓸지 다 같이 논의 해봅시다
