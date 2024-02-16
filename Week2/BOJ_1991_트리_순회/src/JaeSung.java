@@ -15,7 +15,7 @@ class Node {
     }
 }
 
-public class BOJ_1991_트리순회 {
+public class JaeSung {
     static Node[] nodes;
 
     public static void main(String[] args) throws Exception {
