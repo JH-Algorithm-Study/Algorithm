@@ -40,7 +40,7 @@ public class Dongkyu {
 					
 					if (heapSize % 2 == 1) {
 						int cnt = heapSize;		// heapPop() 연산을 수행할 때 heapSize가 변경되므로, 처음에 cnt 변수에 담는다.
-						int popped = 0;		// pop한 값을 담을 변수 popped
+						int popped = 0;			// pop한 값을 담을 변수 popped
 						for (int j = 0; j < cnt / 2 + 1; j++) {		// 중위값을 구하는 것이므로, cnt / 2 + 1 까지 순회
 							popped = heapPop();
 							tmpArr[j] = popped;	// 임시 배열 tmpArr에 순서대로 popped를 담는다.
