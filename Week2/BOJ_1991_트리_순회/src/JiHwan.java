@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class JiHwan {
     private static class Node {
         char data; 
         Node left, right;
