@@ -34,3 +34,4 @@ commit -m "Fix: Fixed [Boj-1935, 1158, 3190] JiHwan"
 | 2주차    | Tree_PriorityQueue   | [최소 힙 - Silver 2](https://www.acmicpc.net/problem/1927) | [트리 순회 - Silver 1](https://www.acmicpc.net/problem/1991) | [중앙값 구하기 - Gold 2](https://www.acmicpc.net/problem/2696) | `진행 완료`   |
 | 3주차    | DP | [퇴사 - Silver 3](https://www.acmicpc.net/problem/14501) | [미세먼지 안녕! - gold 4](https://www.acmicpc.net/problem/17144) | [타일 채우기 - gold 4](https://www.acmicpc.net/problem/2133) | `진행 완료` |
 | 4주차    | 알고리즘 역량 테스트 대비 | | | | `진행 중` |
+| 5주차    | DFS_BFS | [보물섬 - gold 5](https://www.acmicpc.net/problem/2589) | [치즈 - gold 4](https://www.acmicpc.net/problem/2636) | [말이 되고픈 원숭이 - gold 3](https://www.acmicpc.net/problem/1600) | `진행 중` |
