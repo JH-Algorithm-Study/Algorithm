@@ -13,7 +13,7 @@ public class JaeSung {
         int tile[] = new int[N + 1];
 
         tile[0] = 1;
-        for(int i = 2; i <= N; i += 2) {
+        for(int i = 4; i <= N; i += 2) {
             tile[i] = tile[i - 2] * 3;
             for(int j = i - 4; j >= 0; j -= 2) {
                 tile[i] += tile[j] * 2;
