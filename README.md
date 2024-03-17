@@ -36,4 +36,4 @@ commit -m "Fix: Fixed [Boj-1935, 1158, 3190] JiHwan"
 | 4주차    | 모의 코테 | [도로와 신호등 - Silver 4](https://www.acmicpc.net/problem/2980) | [게리맨더링 - gold 4](https://www.acmicpc.net/problem/17471) | [경사로 - gold 3](https://www.acmicpc.net/problem/14890) | `진행 완료` |
 | 5주차    | DFS_BFS | [보물섬 - gold 5](https://www.acmicpc.net/problem/2589) | | | `진행 완료` |
 | 6주차    | 구현 + DFS + BFS | [경쟁적 전염 - gold 5](https://www.acmicpc.net/problem/18405) | [치즈 - gold 4](https://www.acmicpc.net/problem/2636) | [말이 되고픈 원숭이 - gold 3](https://www.acmicpc.net/problem/1600) | `진행 완료` |
-| 7주차    | 구현 + DFS + BFS | [토마토 - gold 5](https://www.acmicpc.net/problem/7576) | [토마토 - gold 5](https://www.acmicpc.net/problem/7569) || `진행 중` |
+| 7주차    | 구현 + DFS + BFS | [안전 영역 - silver 1](https://www.acmicpc.net/problem/2468) | [토마토 - gold 5](https://www.acmicpc.net/problem/7569) || `진행 중` |
