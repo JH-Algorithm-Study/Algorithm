@@ -38,4 +38,4 @@ commit -m "Fix: Fixed [Boj-1935, 1158, 3190] JiHwan"
 | 6주차    | 구현 + DFS + BFS | [경쟁적 전염 - gold 5](https://www.acmicpc.net/problem/18405) | [치즈 - gold 4](https://www.acmicpc.net/problem/2636) | [말이 되고픈 원숭이 - gold 3](https://www.acmicpc.net/problem/1600) | `진행 완료` |
 | 7주차    | 구현 + DFS + BFS | [안전 영역 - silver 1](https://www.acmicpc.net/problem/2468) | [토마토 - gold 5](https://www.acmicpc.net/problem/7569) || `진행 완료` |
 | 8주차    | 다익스트라 + MST  | [도시 건설 - gold 4](https://www.acmicpc.net/problem/21924) | [파티 - gold 3](https://www.acmicpc.net/problem/1238) |   | `진행 완료` |
-| 9주차    | 구현  | [캐슬 디펜스 - gold 3](https://www.acmicpc.net/problem/17135) | [2048EASY) - gold 2](https://www.acmicpc.net/problem/12100) |   | `진행 중` |
+| 9주차    | 구현  | [캐슬 디펜스 - gold 3](https://www.acmicpc.net/problem/17135) | [2048(EASY) - gold 2](https://www.acmicpc.net/problem/12100) |   | `진행 중` |
