@@ -39,5 +39,5 @@ commit -m "Fix: Fixed [Boj-1935, 1158, 3190] JiHwan"
 | 7주차    | 구현 + DFS + BFS | [안전 영역 - Silver 1](https://www.acmicpc.net/problem/2468) | [토마토 - Gold 5](https://www.acmicpc.net/problem/7569) || `진행 완료` |
 | 8주차    | 다익스트라 + MST  | [도시 건설 - Gold 4](https://www.acmicpc.net/problem/21924) | [파티 - Gold 3](https://www.acmicpc.net/problem/1238) |   | `진행 완료` |
 | 9주차    | 구현  | [캐슬 디펜스 - Gold 3](https://www.acmicpc.net/problem/17135) | [2048(EASY) - Gold 2](https://www.acmicpc.net/problem/12100) |   | `진행 완료` |
-| 10주차    | BFS + 위상정렬  | [맥주 마시면서 걸어가기 - Gold 5](https://www.acmicpc.net/problem/9205) | [게임 개발 - Gold 3](https://www.acmicpc.net/problem/1516) |   | `진행 중` |
-| 11주차    | 구현   | [월드컵 - Gold 4](https://www.acmicpc.net/problem/6987) | [마법사 상어와 토네이도 - Gold 3](https://www.acmicpc.net/problem/20057) | [주사위 굴리기2 - Gold 3](https://www.acmicpc.net/problem/23288) | `진행 완료`   |
+| 10주차    | BFS + 위상정렬  | [맥주 마시면서 걸어가기 - Gold 5](https://www.acmicpc.net/problem/9205) | [게임 개발 - Gold 3](https://www.acmicpc.net/problem/1516) |   | `진행 완료` |
+| 11주차    | 구현   | [월드컵 - Gold 4](https://www.acmicpc.net/problem/6987) | [마법사 상어와 토네이도 - Gold 3](https://www.acmicpc.net/problem/20057) | [주사위 굴리기2 - Gold 3](https://www.acmicpc.net/problem/23288) | `진행 중`   |
